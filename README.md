@@ -1,5 +1,5 @@
 # About
-This repository houses my first portfolio project—a responsive website meticulously crafted to display images, links, and descriptions effectively. As a fledgling developer, I've poured my passion and creativity into this project, aiming to create a visually appealing and user-friendly platform to showcase my skills and projects.
+This repository houses my second portfolio project—a responsive website meticulously crafted to display images, links, and descriptions effectively. As a fledgling developer, I've poured my passion and creativity into this project, aiming to create a visually appealing and user-friendly platform to showcase my skills and projects.
 
 # Files and Programs Used
 - **index.html:** The main HTML file that serves as the foundation of the website's structure.
